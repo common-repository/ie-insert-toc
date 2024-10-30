@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+#publicity{
+   background: #fff;
+   border-left: 4px solid #46b450;
+   box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#publicity a{
+  color: #1122CC;
+
+}
+#publicity p>a {
+  float: right;
+  font-size: 10px;
+  text-align: center;
+  margin: 0 10px;
+}
+#publicity p{
+  padding: 10.5px 12px  25.5px;
+  line-height: 24px;
+}
+#publicity div{
+  text-align: right;
+}
+.settings_page_ieitoc-setting-admin .form-table th{
+  width: 0px!important;
+}
+.settings_page_ieitoc-setting-admin .form-table input[type=checkbox], .settings_page_ieitoc-setting-admin .form-table input[type=radio]    {
+  margin: 5px 0 !important;
+}

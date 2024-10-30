@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ieitoc WordPress Pot v1.0.0\n"
+"POT-Creation-Date: 2019-01-07 05:52+0900\n"
+"PO-Revision-Date: 2019-01-08 19:08+0900\n"
+"Last-Translator: ryusai <info@it-experience.tokyo>\n"
+"Language-Team: it-experience <https://it-experience.tokyo/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ie_insert_toc.php\n"
+
+#: ie_insert_toc.php:175
+msgid "table of contents"
+msgstr "目錄"
+
+#: ie_insert_toc.php:288
+msgid "Settings"
+msgstr "設置"
+
+#: ie_insert_toc.php:310
+msgid "Various Settings"
+msgstr "各種設置"
+
+#: ie_insert_toc.php:311
+msgid "Tree     : tree structure display"
+msgstr "Tree     : 樹結構顯示"
+
+#: ie_insert_toc.php:312
+msgid "Posts    : Insert the TOC on the posted article"
+msgstr "Posts    : 在張貼的文章中插入目錄"
+
+#: ie_insert_toc.php:313
+msgid "Pages   : Insert the TOC on the pages"
+msgstr "Pages   : 在頁面上插入目錄"
+
+#: ie_insert_toc.php:355
+msgid "Summary"
+msgstr "摘要"
+
+#: ie_insert_toc.php:356
+msgid ""
+"Automatically pick up the H tag and securely create and insert the table of "
+"contents."
+msgstr "自動拾取 h 標記, 並安全地創建和插入目錄。"
+
+#: ie_insert_toc.php:357
+msgid "Please write CSS if you want to change the design. "
+msgstr "如果要更改設計, 請編寫 css "
+
+#: ie_insert_toc.php:358
+msgid ""
+"If the H tags in the article are three or more, the table of contents is "
+"automatically inserted."
+msgstr "如果文章中的H標籤是三個或更多，則會自動插入目錄。"
+
+#: ie_insert_toc.php:359
+msgid "We do not leave garbage when uninstalling."
+msgstr "卸載時我們不會留下垃圾。"
+
+#: ie_insert_toc.php:360
+msgid "Thank you for using this plugin! This plugin is free."
+msgstr "感謝您使用此插件！這個插件是免費的。"
+
+#: ie_insert_toc.php:361
+msgid "If you like this, please give the tip to the producer!"
+msgstr "如果你喜歡這個，請把提示給製作人！"
+
+#: ie_insert_toc.php:362
+msgid "A new useful plug-in will be produced with your support!"
+msgstr "您的支持將生成一個新的有用的插件！"
+
+#: ie_insert_toc.php:363
+msgid ">>support this plugin!"
+msgstr ">>支持這個插件！"
+
+#: ie_insert_toc.php:364
+msgid ""
+"Note: Donations are prohibited by law in many countries. Support means "
+"rewards for plugins."
+msgstr "注意：許多國家/地區的法律禁止捐贈。支持意味著插件的獎勵。"
